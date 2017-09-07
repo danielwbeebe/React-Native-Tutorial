@@ -1,6 +1,6 @@
-REACT NATIVE TUTORIAL
+#REACT NATIVE TUTORIAL
 
-By Militsa & Dan
+By Militsa Neykova & Dan Beebe
 
 ## Introduction
 
