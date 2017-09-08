@@ -18,6 +18,13 @@ To start using React Native, you should install the React Native npm package by 
 
         npm install -g react-native-cli
 
+You'll also want to install yarn to help with setting up your React Native App, so run the following too:
+
+        npm install -g yarn
+
+To initialize a new React Native app, go into the folder where you want to create your app and run the following command:
+
+        react-native init new-app-name
 
 ## Code Examples 
 
