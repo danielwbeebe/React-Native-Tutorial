@@ -33,14 +33,14 @@ Although the React apps are fundamentally made from the same building blocks as 
 
 ### Awesome Apps build in React Native
 
-  * FACEBOOK
-  * SKYPE
-  * FACEBOOK ADs
-  * INSTAGRAM
-  * WALMART
-  * AIRBNB
-  * TESLA
-  * YAHOO MAIL
+    * [FACEBOOK](https://www.facebook.com/)
+    * [SKYPE](https://www.skype.com/en/)
+    * [FACEBOOK ADs](https://www.facebook.com/business/products/ads)
+    * [INSTAGRAM](https://www.instagram.com/)
+    * [WALMART](https://www.walmart.com/)
+    * [AIRBNB](https://www.airbnb.com/)
+    * [TESLA](https://www.tesla.com/)
+    * [YAHOO MAIL](https://www.yahoo.com/)
    
 ## Getting Started
 
