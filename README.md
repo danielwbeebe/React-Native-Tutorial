@@ -8,7 +8,7 @@ By Militsa Neykova & Dan Beebe
 
 React Native is a framework used to construct mobile applications written in JavaScript, utilizing the React library to create the user interface. 
 
-According to Facebook's documentation on React Native:
+According to [Facebook's Documentation](https://facebook.github.io/react-native/docs/tutorial.html) on React Native:
 
 >
 > With React Native, you don't build a 'mobile web app', an 'HTML5 app', or a 'hybrid app'. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
@@ -20,7 +20,7 @@ This unofficial tutorial includes sections on: (i) the origins of React Native; 
 
 ## Origins
 
-In 2015, Facebook announced the creation of React Native:
+In 2015, [Facebook announced]() https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) the creation of React Native:
 
 >
 > We introduced React to the world two years ago, and since then it's seen impressive growth, both inside and outside of Facebook. Today, even though no one is forced to use it, new web projects at Facebook are commonly built using React in one form or another, and it's being broadly adopted across the industry. Engineers are choosing to use React every day because it enables them to spend more time focusing on their products and less time fighting with their framework. It wasn't until we'd been building with React for a while, though, that we started to understand what makes it so powerful.
