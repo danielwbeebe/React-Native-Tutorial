@@ -78,6 +78,8 @@ Here is a look at the file structure for a new React Native App:
 
 To view the default files you will get with your new React Native app, check out the Example-App folder in this tutorial's repository.
 
+Here is a helpful diagram to explain how React Native is different from React (the key difference being that, as React Native does not run in the browser, there is no browser DOM):
+
 <img src='images/diagram-image.jpeg' width='600px'>
 
 ## Code Examples 
