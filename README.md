@@ -8,7 +8,7 @@ React Native is ...
 
 This tutorial includes sections on: (i) the practical uses of React Native; (ii) getting started with React Native; (iii) specific code examples; and (iv) resources for further reading.
 
-## Practical Uses/Features of React Native
+## Why Use React Native?
 
 React Native allows you to ...
 
