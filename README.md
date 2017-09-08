@@ -14,7 +14,10 @@ React Native allows you to ...
 
 ## Getting Started
 
-To start using React Native ...
+To start using React Native, you should install the React Native npm package by running the following code in your terminal:
+
+        npm install -g react-native-cli
+
 
 ## Code Examples 
 
@@ -25,6 +28,8 @@ First, ...
 ## Resources
 
 [React Native Official Site](http://www.reactnative.com/)
+
+[NPM Page for React-Native-Cli Package](https://www.npmjs.com/package/react-native-cli)
 
 [Facebook's Tutorial on React Native](https://facebook.github.io/react-native/docs/tutorial.html)
 
