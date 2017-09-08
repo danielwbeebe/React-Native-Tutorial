@@ -36,11 +36,15 @@ To work on your app, you should also make sure you have Java downloaded and set 
 
 When you start your app, you should see the following in your terminal:
 
-<img src='terminal-image.png' width='400px'>
+<img src='terminal-image.png' width='600px'>
 
 You will see the following in your browser when the app is running:
 
-<img src='browser-image.png' width='400px'>
+<img src='browser-image.png' width='600px'>
+
+In order to see the content of the app as it would appear in a mobile device, you will need to set up an Android development environment:
+
+[React Documentation on Android Setup](https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html)
 
 ## Code Examples 
 
@@ -95,6 +99,8 @@ The Programmer can use props and state (just like in React):
 [React Native Official Site](http://www.reactnative.com/)
 
 [Facebook's Tutorial on React Native](https://facebook.github.io/react-native/docs/tutorial.html)
+
+[React Documentation on Android Setup](https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html)
 
 ### To Watch
 [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
