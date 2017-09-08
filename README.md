@@ -1,5 +1,7 @@
 # REACT NATIVE TUTORIAL
 
+<img src='react-native-image.png' width='600px'>
+
 By Militsa Neykova & Dan Beebe
 
 ## Introduction
@@ -8,11 +10,21 @@ React Native is a framework used to construct mobile applications written in Jav
 
 According to Facebook's documentation on React Native:
 
-"With React Native, you don't build a 'mobile web app', an 'HTML5 app', or a 'hybrid app'. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React."
+>
+> With React Native, you don't build a 'mobile web app', an 'HTML5 app', or a 'hybrid app'. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+>
 
 In other words, although React Native apps are written in JavaScript, their structure is essentially the same as other apps.
 
-This tutorial includes sections on: (i) why you might want to use React Native; (ii) getting started with React Native; (iii) specific code examples; and (iv) resources for further reading.
+This tutorial includes sections on: (i) the origins of React Native; (ii) why you might want to use React Native; (iii) getting started with React Native; (iv) specific code examples; and (v) resources for further reading.
+
+## Origins
+
+In 2015, Facebook announced the creation of React Native:
+
+>
+> We introduced React to the world two years ago, and since then it's seen impressive growth, both inside and outside of Facebook. Today, even though no one is forced to use it, new web projects at Facebook are commonly built using React in one form or another, and it's being broadly adopted across the industry. Engineers are choosing to use React every day because it enables them to spend more time focusing on their products and less time fighting with their framework. It wasn't until we'd been building with React for a while, though, that we started to understand what makes it so powerful.
+>
 
 ## Why Use React Native?
 
@@ -32,7 +44,11 @@ To initialize a new React Native app, go into the folder where you want to creat
 
         react-native init newAppName
 
-To work on your app, you should also make sure you have Java downloaded and set up an android virtual device on your computer. (See resources section below.)
+You should make sure you have Java downloaded. Also, in order to see the content of the app as it would appear in a mobile device, you will need to set up an Android development environment:
+
+[React Documentation on Android Setup](https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html)
+
+Getting everything set up is a bit complicated, so pay close attention to the documentation for setting up the android environment.
 
 When you start your app, you should see the following in your terminal:
 
@@ -41,10 +57,6 @@ When you start your app, you should see the following in your terminal:
 You will see the following in your browser when the app is running:
 
 <img src='browser-image.png' width='600px'>
-
-In order to see the content of the app as it would appear in a mobile device, you will need to set up an Android development environment:
-
-[React Documentation on Android Setup](https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html)
 
 ## Code Examples 
 
@@ -101,6 +113,8 @@ The Programmer can use props and state (just like in React):
 [Facebook's Tutorial on React Native](https://facebook.github.io/react-native/docs/tutorial.html)
 
 [React Documentation on Android Setup](https://facebook.github.io/react-native/releases/0.23/docs/android-setup.html)
+
+[2015 Article About the Origins of React Native](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 
 ### To Watch
 [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
