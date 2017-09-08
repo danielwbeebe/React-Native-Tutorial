@@ -20,7 +20,7 @@ This unofficial tutorial includes sections on: (i) the origins of React Native; 
 
 ## Origins
 
-In 2015, [Facebook announced]() https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) the creation of React Native:
+In 2015, [Facebook announced](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) the creation of React Native:
 
 >
 > We introduced React to the world two years ago, and since then it's seen impressive growth, both inside and outside of Facebook. Today, even though no one is forced to use it, new web projects at Facebook are commonly built using React in one form or another, and it's being broadly adopted across the industry. Engineers are choosing to use React every day because it enables them to spend more time focusing on their products and less time fighting with their framework. It wasn't until we'd been building with React for a while, though, that we started to understand what makes it so powerful.
