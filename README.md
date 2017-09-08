@@ -36,7 +36,7 @@ To work on your app, you should also make sure you have Java downloaded and set 
 
 ## Code Examples 
 
-// The examples are taken from the tutorial https://www.youtube.com/watch?v=mkualZPRZCs&t=1704s
+The following code examples are taken from a tutorial published by Traversy Media on YouTube: [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
 
 Here are a few examples of code in React Native: 
 
