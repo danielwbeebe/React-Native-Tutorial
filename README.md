@@ -16,7 +16,8 @@ This tutorial includes sections on: (i) why/when you might want to use React Nat
 
 ## Why Use React Native?
 
-React Native allows you to create an app 
+Althoug the React apps are fundametaly building blocks as a native app, they are better and faster. The applications are much easier to code, less expensive, save a lot of time to build and they are open sourse.
+   
 
 ## Getting Started
 
