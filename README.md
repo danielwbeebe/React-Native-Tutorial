@@ -17,7 +17,7 @@ This tutorial includes sections on: (i) why/when you might want to use React Nat
 ## Why Use React Native?
 
 Althoug the React apps are fundametaly building blocks as a native app, they are better and faster. The applications are much easier to code, less expensive, save a lot of time to build and they are open sourse.
-   
+One of the most valiables feature that React gives to the programmers is that makes the views layers otput of the states.
 
 ## Getting Started
 
@@ -35,9 +35,48 @@ To initialize a new React Native app, go into the folder where you want to creat
 
 ## Code Examples 
 
-Here are a few examples of code in React Native.
+Here are a few examples of code in React Native: 
 
-First, ...
+First, neccesery is t import rect native :
+
+        import {AppRegistry, Text, View} from 'react-native'
+
+-Rendering the information to the application:
+
+        export default class newAppName extends Component {
+                render(){
+                        return(
+                                <View>
+                                        <Text>Hello World!</Text>
+                                </View>
+                        );
+                }
+        }
+
+-Registuring the application:
+
+        AppRegistry.registerComponent('newAppName', () => myapp);
+
+
+-Programmer can use props and state just like in React :
+
+         export default class newAppName extends Component {
+                 constructor(){
+                         super();
+                         this.state = {
+                                 name: 'Michael'
+                         }
+                 }
+
+                render(){
+                        return(
+                                <View>
+                                        <Text>{this.props.message}</Text>
+                                        <Text>{this.state.name}</Text>
+                                </View>        
+                        );
+                }
+         }
 
 ## Resources
 
