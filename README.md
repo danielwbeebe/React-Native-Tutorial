@@ -1,4 +1,4 @@
-# REACT NATIVE TUTORIAL
+# UNOFFICIAL REACT NATIVE TUTORIAL
 
 <img src='react-native-image.png' width='600px'>
 
@@ -16,7 +16,7 @@ According to Facebook's documentation on React Native:
 
 In other words, although React Native apps are written in JavaScript, their structure is essentially the same as other apps.
 
-This tutorial includes sections on: (i) the origins of React Native; (ii) why you might want to use React Native; (iii) getting started with React Native; (iv) specific code examples; and (v) resources for further reading.
+This unofficial tutorial includes sections on: (i) the origins of React Native; (ii) why you might want to use React Native; (iii) getting started with React Native; (iv) specific code examples; and (v) resources for further reading.
 
 ## Origins
 
@@ -25,8 +25,9 @@ In 2015, Facebook announced the creation of React Native:
 >
 > We introduced React to the world two years ago, and since then it's seen impressive growth, both inside and outside of Facebook. Today, even though no one is forced to use it, new web projects at Facebook are commonly built using React in one form or another, and it's being broadly adopted across the industry. Engineers are choosing to use React every day because it enables them to spend more time focusing on their products and less time fighting with their framework. It wasn't until we'd been building with React for a while, though, that we started to understand what makes it so powerful.
 >
-
 ## Why Use React Native?
+
+First of all, coding mobile apps is harder than coding for the browser. React Native is an attempt to make things slightly easier. 
 
 Although the React apps are fundamentally made from the same building blocks as a native app, they are (arguably) better and faster. React Native applications can be much easier to code, less expensive, and save you a lot of time. It's all open source. One of the most valiable features that React gives to programmers is that it makes the views layers output of the states.
 
@@ -82,13 +83,13 @@ First, this code must be added to render the app using React Native in the index
 Rendering the information (also in the index file):
 
         export default class newAppName extends Component {
-           render(){
-              return(
-                 <View>
-                   <Text>Hello World!</Text>
-                 </View>
-              );
-           }
+          render(){
+            return(
+              <View>
+                <Text>Hello, World! This is a React Native App!!!!!!</Text>
+              </View>
+            );
+          }
         }
 
 Registering the application (also in the index file):
@@ -102,16 +103,15 @@ The Programmer can use props and state (just like in React):
            constructor(){
              super();
              this.state = {
-                name: 'Michael'
+                name: 'Militsa'
              }
             }
 
-           render(){
-             return(
-               <View>
-                 <Text>{this.props.message}</Text>
-                 <Text>{this.state.name}</Text>
-                 </View>        
+          render(){
+            return(
+              <View>
+                <Text>{this.state.name}</Text>
+                </View>        
               );
             }
           }
