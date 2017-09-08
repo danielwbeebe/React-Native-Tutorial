@@ -30,7 +30,7 @@ You'll also want to install yarn to help with setting up your React Native App, 
 
 To initialize a new React Native app, go into the folder where you want to create your app and run the following command:
 
-        react-native init new-app-name
+        react-native init newAppName
 
 ## Code Examples 
 
