@@ -1,6 +1,6 @@
 # UNOFFICIAL REACT NATIVE TUTORIAL
 
-<img src='react-native-image.png' width='600px'>
+<img src='images/react-native-image.png' width='600px'>
 
 By Militsa Neykova & Dan Beebe
 
@@ -64,19 +64,21 @@ Getting everything set up is a bit complicated, so pay close attention to the do
 
 When you start your app, you should see the following in your terminal:
 
-<img src='terminal-image.png' width='600px'>
+<img src='images/terminal-image.png' width='600px'>
 
 You will see the following in your browser when the app is running:
 
-<img src='browser-image.png' width='600px'>
+<img src='images/browser-image.png' width='600px'>
 
 ## File Structure
 
 Here is a look at the file structure for a new React Native App:
 
-<img src='files-image.png' width='400px'>
+<img src='images/files-image.png' width='400px'>
 
 To view the default files you will get with your new React Native app, check out the Example-App folder in this tutorial's repository.
+
+<img src='images/diagram-image.png' width='600px'>
 
 ## Code Examples 
 
