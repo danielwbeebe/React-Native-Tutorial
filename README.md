@@ -34,6 +34,14 @@ To initialize a new React Native app, go into the folder where you want to creat
 
 To work on your app, you should also make sure you have Java downloaded and set up an android virtual device on your computer. (See resources section below.)
 
+When you start your app, you should see the following in your terminal:
+
+<img src='terminal-image.png' width='400px'>
+
+You will see the following in your browser when the app is running:
+
+<img src='browser-image.png' width='400px'>
+
 ## Code Examples 
 
 Here are a few examples of code in React Native: 
