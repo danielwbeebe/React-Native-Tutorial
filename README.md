@@ -69,6 +69,7 @@ When you start your app, you should see the following in your terminal:
 You will see the following in your browser when the app is running:
 
 <img src='browser-image.png' width='600px'>
+
 ## Code Examples 
 
 The following code examples are taken from a tutorial published by Traversy Media on YouTube: [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
