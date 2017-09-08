@@ -78,7 +78,7 @@ Here is a look at the file structure for a new React Native App:
 
 To view the default files you will get with your new React Native app, check out the Example-App folder in this tutorial's repository.
 
-<img src='images/diagram-image.png' width='600px'>
+<img src='images/diagram-image.jpeg' width='600px'>
 
 ## Code Examples 
 
