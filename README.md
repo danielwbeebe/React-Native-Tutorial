@@ -4,13 +4,19 @@ By Militsa Neykova & Dan Beebe
 
 ## Introduction
 
-React Native is ...
+React Native is a framework used to construct mobile applications written in JavaScript, utilizing the React library to create the user interface. 
 
-This tutorial includes sections on: (i) the practical uses of React Native; (ii) getting started with React Native; (iii) specific code examples; and (iv) resources for further reading.
+According to Facebook's documentation on React Native:
+
+        With React Native, you don't build a “mobile web app”, an “HTML5 app”, or a “hybrid app”. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+
+In other words, although React Native apps are written in JavaScript, their structure is essentially the same as other apps.
+
+This tutorial includes sections on: (i) why/when you might want to use React Native; (ii) getting started with React Native; (iii) specific code examples; and (iv) resources for further reading.
 
 ## Why Use React Native?
 
-React Native allows you to ...
+React Native allows you to create an app 
 
 ## Getting Started
 
