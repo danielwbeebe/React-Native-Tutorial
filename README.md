@@ -31,7 +31,7 @@ First of all, coding mobile apps is harder than coding for the browser. React Na
 
 Although the React apps are fundamentally made from the same building blocks as a native app, they are (arguably) better and faster. React Native applications can be much easier to code, less expensive, and save you a lot of time. It's all open source. One of the most valiable features that React gives to programmers is that it makes the views layers output of the states.
 
-### Awesome Apps build in React Native
+### Awesome Apps built in React Native
 
 * [FACEBOOK](https://www.facebook.com/)
 * [SKYPE](https://www.skype.com/en/)
