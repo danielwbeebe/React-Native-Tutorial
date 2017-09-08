@@ -16,7 +16,7 @@ According to Facebook's documentation on React Native:
 
 In other words, although React Native apps are written in JavaScript, their structure is essentially the same as other apps.
 
-This unofficial tutorial includes sections on: (i) the origins of React Native; (ii) why you might want to use React Native; (iii) getting started with React Native; (iv) specific code examples; and (v) resources for further reading.
+This unofficial tutorial includes sections on: (i) the origins of React Native; (ii) why you might want to use React Native; (iii) getting started with React Native; (iv) file structure; (v) specific code examples; and (vi) resources for further reading.
 
 ## Origins
 
@@ -69,6 +69,14 @@ When you start your app, you should see the following in your terminal:
 You will see the following in your browser when the app is running:
 
 <img src='browser-image.png' width='600px'>
+
+## File Structure
+
+Here is a look at the file structure for a new React Native App:
+
+<img src='files-image.png' width='400px'>
+
+To view the default files you will get with your new React Native app, check out the Example-App folder in this tutorial's repository.
 
 ## Code Examples 
 
