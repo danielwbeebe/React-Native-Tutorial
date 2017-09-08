@@ -44,6 +44,8 @@ You will see the following in your browser when the app is running:
 
 ## Code Examples 
 
+The following code examples are taken from a tutorial published by Traversy Media on YouTube: [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
+
 Here are a few examples of code in React Native: 
 
 First, this code must be added to render the app using React Native in the index file:
