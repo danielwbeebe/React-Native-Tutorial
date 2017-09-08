@@ -4,20 +4,28 @@ By Militsa Neykova & Dan Beebe
 
 ## Introduction
 
-[TO BE ADDED]
+React Native is ...
 
-## Basics of the Language
+This tutorial includes sections on: (i) the practical uses of React Native; (ii) getting started with React Native; (iii) specific code examples; and (iv) resources for further reading.
 
-[TO BE ADDED]
+## Practical Uses/Features of React Native
 
-## Framework
+React Native allows you to ...
 
-[TO BE ADDED]
+## Getting Started
 
-## Code Examples of Common Algorithms
+To start using React Native ...
 
-[TO BE ADDED]
+## Code Examples 
+
+Here are a few examples of code in React Native.
+
+First, ...
 
 ## Resources
 
-[TO BE ADDED]
+[React Native Official Site](http://www.reactnative.com/)
+
+[Facebook's Tutorial on React Native](https://facebook.github.io/react-native/docs/tutorial.html)
+
+[React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
