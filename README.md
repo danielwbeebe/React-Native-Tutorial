@@ -16,7 +16,7 @@ This tutorial includes sections on: (i) why you might want to use React Native; 
 
 ## Why Use React Native?
 
-Although the React apps are fundamentally made from the same building blocks as a native app, they are (arguably) better and faster. React Native applications can be much easier to code, less expensive, and save you a lot of time. It's all open source.
+Although the React apps are fundamentally made from the same building blocks as a native app, they are (arguably) better and faster. React Native applications can be much easier to code, less expensive, and save you a lot of time. It's all open source. One of the most valiable features that React gives to programmers is that it makes the views layers output of the states.
    
 ## Getting Started
 
@@ -36,21 +36,64 @@ To work on your app, you should also make sure you have Java downloaded and set 
 
 ## Code Examples 
 
-Here are a few examples of code in React Native.
+Here are a few examples of code in React Native: 
 
-First, ...
+First, this code must be added to render the app using React Native in the index file:
+
+        import {AppRegistry, Text, View} from 'react-native'
+
+Rendering the information (also in the index file):
+
+        export default class newAppName extends Component {
+           render(){
+              return(
+                 <View>
+                   <Text>Hello World!</Text>
+                 </View>
+              );
+           }
+        }
+
+Registering the application (also in the index file):
+
+        AppRegistry.registerComponent('newAppName', () => myapp);
+
+
+The Programmer can use props and state (just like in React):
+
+         export default class newAppName extends Component {
+           constructor(){
+             super();
+             this.state = {
+                name: 'Michael'
+             }
+            }
+
+           render(){
+             return(
+               <View>
+                 <Text>{this.props.message}</Text>
+                 <Text>{this.state.name}</Text>
+                 </View>        
+              );
+            }
+          }
 
 ## Resources
 
 ### To Read
 [React Native Official Site](http://www.reactnative.com/)
+
 [Facebook's Tutorial on React Native](https://facebook.github.io/react-native/docs/tutorial.html)
 
 ### To Watch
 [React Native Crash Course YouTube Video](https://www.youtube.com/watch?v=mkualZPRZCs)
+
 [Video on Android SDK & AVD Setup For React Native](https://www.youtube.com/watch?v=KRLLjlpy0r4)
 
 ### To Download
 [NPM Page for React-Native-Cli Package](https://www.npmjs.com/package/react-native-cli)
+
 [Download Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htm)
+
 [Download Android Studio](https://developer.android.com/studio/install.html)
