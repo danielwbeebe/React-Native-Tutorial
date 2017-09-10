@@ -88,11 +88,9 @@ The following code examples are taken from a tutorial published by Traversy Medi
 
 Here are a few examples of code in React Native: 
 
-First, this code must be added to render the app using React Native in the index file:
+First, this is the basic boilerplate which the programmer uses to show information, always using one <View> component, which holds the rest of the components.
 
         import {AppRegistry, Text, View} from 'react-native'
-
-Rendering the information (also in the index file):
 
         export default class newAppName extends Component {
           render(){
@@ -104,12 +102,7 @@ Rendering the information (also in the index file):
           }
         }
 
-Registering the application (also in the index file):
-
-        AppRegistry.registerComponent('newAppName', () => myapp);
-
-
-The Programmer can use props and state (just like in React):
+Second, the Programmer uses props and state (just like in React). Props are set by the parent and live during the lifetime of the Component. We use state for the data that is going to change. We define state in the constractor, and everytime we have to change the infotmation we set the State again.
 
          export default class newAppName extends Component {
            constructor(){
